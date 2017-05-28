@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\workUtil\JDK1.7\jdk1.7.0_21" version="1.7.0_21">
+<bootpath>
+<entry path="D:\workUtil\JDK1.7\jdk1.7.0_21\jre\lib\resources.jar"/>
+<entry path="D:\workUtil\JDK1.7\jdk1.7.0_21\jre\lib\rt.jar"/>
+<entry path="D:\workUtil\JDK1.7\jdk1.7.0_21\jre\lib\sunrsasign.jar"/>
+<entry path="D:\workUtil\JDK1.7\jdk1.7.0_21\jre\lib\jsse.jar"/>
+<entry path="D:\workUtil\JDK1.7\jdk1.7.0_21\jre\lib\jce.jar"/>
+<entry path="D:\workUtil\JDK1.7\jdk1.7.0_21\jre\lib\charsets.jar"/>
+<entry path="D:\workUtil\JDK1.7\jdk1.7.0_21\jre\lib\jfr.jar"/>
+<entry path="D:\workUtil\JDK1.7\jdk1.7.0_21\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\workUtil\JDK1.7\jdk1.7.0_21\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\workUtil\JDK1.7\jdk1.7.0_21\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\workUtil\JDK1.8" version="1.8.0_111">
+<bootpath>
+<entry path="D:\workUtil\JDK1.8\jre\lib\resources.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\lib\rt.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\lib\sunrsasign.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\lib\jsse.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\lib\jce.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\lib\charsets.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\lib\jfr.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\workUtil\JDK1.8\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\workUtil\JDK1.8\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\workUtil\JDK1.8\jre" version="1.8.0_111">
+<bootpath>
+<entry path="D:\workUtil\JDK1.8\jre\lib\resources.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\lib\rt.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\lib\sunrsasign.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\lib\jsse.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\lib\jce.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\lib\charsets.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\lib\jfr.jar"/>
+<entry path="D:\workUtil\JDK1.8\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\workUtil\JDK1.8\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\workUtil\JDK1.8\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
