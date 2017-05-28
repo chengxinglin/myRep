@@ -45,7 +45,7 @@ public class TestWindowApi {
 
 	public static void main(String[] args) {
 		Logger log = LoggerFactory.getLogger(TestWindowApi.class);
-		
+		//测试patch
 		TopologyBuilder topologyBuilder = new TopologyBuilder();
 		topologyBuilder.setSpout("windowSpout", new WindowSpout(), 6);
 		topologyBuilder.setBolt("countBolt", new CountBolt(), 5).localOrShuffleGrouping("windowSpout");
@@ -79,7 +79,7 @@ public class TestWindowApi {
  * WindowSpout
  */
 class WindowSpout implements IRichSpout{
-
+	//测试patch
 	Logger log = LoggerFactory.getLogger(WindowSpout.class);
 	
 	/**
